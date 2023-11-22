@@ -1,0 +1,15 @@
+.header {
+  max-width: 1280px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+}
+.header .title {
+  font-size: x-large;
+}
+.header .profile {
+  display: flex;
+}/*# sourceMappingURL=header.css.map */
